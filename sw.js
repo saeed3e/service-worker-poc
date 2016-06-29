@@ -1,4 +1,4 @@
-var CACHE_NAME = 'my-site-cache-v6';
+var CACHE_NAME = 'my-site-cache-v7';
 
 // The files we want to cache
 var urlsToCache = [
