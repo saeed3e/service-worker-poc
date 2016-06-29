@@ -2,8 +2,8 @@ var CACHE_NAME = 'my-site-cache-v6';
 
 // The files we want to cache
 var urlsToCache = [
-    './style.css',
-    './main.js'
+    './styles/style.css',
+    './script/main.js'
 ];
 
 
