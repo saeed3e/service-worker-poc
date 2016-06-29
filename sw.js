@@ -2,8 +2,8 @@ var CACHE_NAME = 'my-site-cache-v6';
 
 // The files we want to cache
 var urlsToCache = [
-    'http://localhost/Dropbox/git/Static4/service-worker-poc/styles/style.css',
-    'http://localhost/Dropbox/git/Static4/service-worker-poc/script/main.js'
+    './style.css',
+    './main.js'
 ];
 
 
